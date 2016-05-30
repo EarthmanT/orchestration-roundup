@@ -1,0 +1,3 @@
+[submodule "cloudify-nodecellar-example"]
+	path = cloudify-nodecellar-example
+	url = https://github.com/cloudify-cosmo/cloudify-nodecellar-example.git
